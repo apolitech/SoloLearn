@@ -1,0 +1,13 @@
+{
+    "name": "ubuntu-mate-launchpad",
+    "version": "0.1.0",
+    "main": "./main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "build": {
+      "linux": {
+        "target": ["dir"]
+      }
+    }
+  }

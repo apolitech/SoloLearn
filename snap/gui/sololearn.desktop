@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+
+[Desktop Entry]
+Type=Application
+Name=SoloLearn
+Icon=${SNAP}/meta/gui/icon.jpg
+Categories=
+Exec=sololearn
+Terminal=false
+Name[en_US]=sololearn
