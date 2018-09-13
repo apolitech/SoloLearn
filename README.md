@@ -1,6 +1,8 @@
 # SoloLearn
     This is a Snap Electron Web App version for SoloLearn
    What is SoloLearn?
+   
+   
 SoloLearn is an online and mobile learning platform that offers free coding classes in 13 different programming disciplines. 
 
 The learning content is jointly created by SoloLearn and, increasingly, community contributors.  
