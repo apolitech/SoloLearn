@@ -1,3 +1,7 @@
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+
+
 # SoloLearn
     This is a Snap Electron Web App version for SoloLearn
    What is SoloLearn?
