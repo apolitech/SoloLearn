@@ -2,7 +2,7 @@
 
 [Desktop Entry]
 Type=Application
-Name=SoloLearn
+Name=sololearn
 Icon=${SNAP}/meta/gui/icon.jpg
 Categories=
 Exec=sololearn
