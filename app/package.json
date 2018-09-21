@@ -1,5 +1,5 @@
 {
-    "name": "ubuntu-mate-launchpad",
+    "name": "sololearn",
     "version": "0.1.0",
     "main": "./main.js",
     "scripts": {
