@@ -15,3 +15,7 @@ SoloLearn apps are available on Android, iOS, and web.  The courses are free.
 SoloLearn has more than 20M learners, over 1000 lessons and more than 10000 quizzes.  
 
 SoloLearn was founded in 2014 by Yeva Hyusyan and Davit Kocharyan and is based in Pleasanton, California  . 
+
+
+To install it open gnu/linux terminal and tipe:
+sudo snap install --edge sololearn
