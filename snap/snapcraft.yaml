@@ -42,7 +42,7 @@ parts:
 
 
 apps:
-  ubuntu-mate-launchpad:
+  sololearn:
     command: env TMPDIR=$XDG_RUNTIME_DIR desktop-launch $SNAP/app/sololearn
     plugs:
       - home
